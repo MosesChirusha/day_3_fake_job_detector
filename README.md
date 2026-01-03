@@ -13,9 +13,9 @@ The app scans for red-flag keywords and returns:
 - Security advice
 
 ## Resources
-- [Demo](link)
-- [Youtube Tutorial](link)
-- [Medium Article](link)
+- [Demo](https://moseschirusha.github.io/day_3_fake_job_detector)
+- [Youtube Tutorial](https://youtu.be/FW4ISDSwQAU)
+- [Medium Article](https://moseschirusha.medium.com/a5bc1fcab224)
 
 
 ## Tools Used
